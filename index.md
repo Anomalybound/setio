@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Setio is a SET-like abstraction card game.
 
-You can use the [editor on GitHub](https://github.com/Cushmily/setio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The main goal is to find all the SETs as quickly as possible. A SET is 3 cards in which each individual features(colour, shape, number and shading).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In Setio, you and your opponent are moving simultaneously, and no SET-call needed.
 
-### Markdown
+Challenge yourself with two addictive gameplay options: Multiplayers and TimeAttack.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Features
+- It's easy to learn
+- Challenging to master
+- Wonderfully addictive
+- No luck needed to win
+- Sharpens your mind
+- Multiplayer available
+- Solo challenges
+- Swappable card themes
 
-```markdown
-Syntax highlighted code block
+# Rules
+In Setio each card contains 1-3 elements, with all of the elements on a card having the same colour, shape and shading, e.g., two red shaded ovals. 
+Colours, shapes, and shadings come in three different types: green, blue and red; oval, heart and square; and solid, shaded and outlined.
 
-# Header 1
-## Header 2
-### Header 3
+All players compete simultaneously and try to claim sets of cards in a single pass through the deck. A set consists of three cards that are either all alike or all different in each attribute. 
 
-- Bulleted
-- List
+For example, if all three cards have the same number, but three different shapes, shadings, and colours, then those cards are a set; if two of the cards have a common attribute that is not shared by the third, they are not a set.
 
-1. Numbered
-2. List
+# Privacy Policy
+[ClickHere](https://www.privacypolicies.com/privacy/view/430aa69103c04e71623d27874d6c5ad7)
 
-**Bold** and _Italic_ and `Code` text
+# Authors and Contributors
+Siyuan Wu
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cushmily/setio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Support or Contact
+Contact me : skyrimwu@foxmail.com
